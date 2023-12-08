@@ -7,6 +7,7 @@
 <p>As you can see, there are some empty spaces waiting to be filled. If you have suggestions or ideas about which technologies could occupy these vacant spots, I invite you to share your thoughts through my <a href="https://www.linkedin.com/in/andrea-nuzzo-bb1249a1" target="_blank">LinkedIn</a><p>
 
 <h2> 🔧 Technologies & Tools</h2>
+<p>
 <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
@@ -36,7 +37,7 @@
 <img src="https://img.shields.io/badge/-GitLab-fa6d26?style=flat&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-ffc828?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/-Javascript-f5dd1e?style=flat&logo=javascript&logoColor=white">
-
+</p>
 
 <h2> &#x270d; Blog & Writing </h2>
 <div style="display: flex;">
