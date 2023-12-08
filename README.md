@@ -1,18 +1,4 @@
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; overflow: hidden;">
-    <img src="./bg.jpg" style="width: 100%; height: 100%; object-fit: cover; position: absolute;">
-</div>
-<div style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 0;">
-    <img src="./portal.gif" style="position: relative;">
-</div>
-<div style="background: rgba( 255, 255, 255, 0.15 );
-box-shadow: 0 8px 32px 0 rgba( 255, 255, 255, 0.37 );
-backdrop-filter: blur( 20px );
--webkit-backdrop-filter: blur( 2020px );
-border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 );
-color: white; padding: 20px;">
-
- <h1>Hey! Nice to see you here <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"  height="30px" /></h1>
+<h1>Hey! Nice to see you here <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"  height="30px" /></h1>
 
 <p>My name is Andrea, and I'm "your friendly neighborhood Developer".  I'm from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909397.png" width="13"/> Italy.</p>
 
