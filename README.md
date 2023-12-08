@@ -40,23 +40,19 @@
 </p>
 
 <h2> &#x270d; Blog & Writing </h2>
-<div style="display: flex;">
-  <div style="flex: 3;">
-    In this space, I will share articles based on the themes that I have faced and resolved during my journey. 
-    <p>Here's what you can expect soon:</p>
-    <ul>
-    <li><strong>Creating a WordPress Plugin with React:</strong> A Journey Through Integrating React into a WordPress Environment</li>
-    </br>
-    <li><strong>Embedding Apache Superset in a React Application through Keycloak:</strong> A detailed guide on integrating Apache Superset into a React application, using Keycloak for secure authentication and authorization management.</li>
-    </ul>
-  </br>
-
-  <p><strong>If you have an interest in specific topics or wish to propose suggestions, your participation is warmly welcomed.</strong></p>
-  </div>
-  <div style="flex: 2; display: flex; justify-content: flex-end;">
-    <img src="./writing.gif" style="width: 80%">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      In this space, I will share articles based on the themes that I have faced and resolved during my journey.<br>
+      Here's what you can expect soon:<br>
+      - <strong>Creating a WordPress Plugin with React:</strong> A Journey Through Integrating React into a WordPress Environment<br>
+      - <strong>Embedding Apache Superset in a React Application through Keycloak:</strong> A detailed guide on integrating Apache Superset into a React application, using Keycloak for secure authentication and authorization management.
+    </td>
+    <td>
+      <img src="./writing.gif" width="1000" />
+    </td>
+  </tr>
+</table>
 
 
 <!-- ## 📊 GitHub Stats:
