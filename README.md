@@ -43,13 +43,16 @@
 <table>
   <tr>
     <td>
-      In this space, I will share articles based on the themes that I have faced and resolved during my journey.<br>
-      Here's what you can expect soon:<br>
-      - <strong>Creating a WordPress Plugin with React:</strong> A Journey Through Integrating React into a WordPress Environment<br>
+      In this space, I will share articles based on the themes that I have faced and resolved during my journey.
+      <br>
+      Here's what you can expect soon:
+      <br>
+      - <strong>Creating a WordPress Plugin with React:</strong> A Journey Through Integrating React into a WordPress Environment
+      <br>
       - <strong>Embedding Apache Superset in a React Application through Keycloak:</strong> A detailed guide on integrating Apache Superset into a React application, using Keycloak for secure authentication and authorization management.
     </td>
     <td>
-      <img src="./writing.gif" width="1000" />
+      <img src="./writing.gif" width="300px" />
     </td>
   </tr>
 </table>
